@@ -20,8 +20,6 @@
 *.lai
 *.la
 *.a
-*.lib
-!/gtest/lib/*
 
 # Executables
 *.exe
