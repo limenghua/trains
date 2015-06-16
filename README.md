@@ -1,5 +1,7 @@
 火车站点计算算法题，使用C++，python，javascript三种语言分别解决
 
+使用VS2010开发环境，如果VS版本不对，则gtest lib需要自己重新编译
+
 数据输入：Train\input.txt
 输入格式如：AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7
 
