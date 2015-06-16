@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Train", "Train\Train.vcxproj", "{CABE888E-9632-4153-90CA-79E05240E46E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{E119395C-1AC8-4CCD-8113-F5865ADC7733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABE888E-9632-4153-90CA-79E05240E46E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CABE888E-9632-4153-90CA-79E05240E46E}.Debug|Win32.Build.0 = Debug|Win32
+		{CABE888E-9632-4153-90CA-79E05240E46E}.Release|Win32.ActiveCfg = Release|Win32
+		{CABE888E-9632-4153-90CA-79E05240E46E}.Release|Win32.Build.0 = Release|Win32
+		{E119395C-1AC8-4CCD-8113-F5865ADC7733}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E119395C-1AC8-4CCD-8113-F5865ADC7733}.Debug|Win32.Build.0 = Debug|Win32
+		{E119395C-1AC8-4CCD-8113-F5865ADC7733}.Release|Win32.ActiveCfg = Release|Win32
+		{E119395C-1AC8-4CCD-8113-F5865ADC7733}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
