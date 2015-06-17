@@ -16,6 +16,9 @@
 # Fortran module files
 *.mod
 
+# Python compiled files
+#.pyc
+
 # Compiled Static libraries
 *.lai
 *.la
