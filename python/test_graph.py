@@ -52,7 +52,7 @@ class TestGraphFunctions(unittest.TestCase):
         self.assertEqual(self.graph.destanceByString("A-D"),5)
         self.assertEqual(self.graph.destanceByString("A-D-C"),13)
         self.assertEqual(self.graph.destanceByString("A-E-B-C-D"),22)
-        self.assertEqual(self.graph.destanceByString("A-E-D"),self.graph.INFINITE)
+        self.assertEqual(self.graph.destanceByString("A-E-D"),"NO SUCH ROUTE")
         
         self.graph.deleteAllEdge()
 
